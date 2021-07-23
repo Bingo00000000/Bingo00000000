@@ -2,15 +2,16 @@ Hello me Name is Ben also known as @Bingo00000000
 - 👀 I’m interested in creating aplications and working on projects 
 - 🌱 I’m currently learning Unity Engine and Working towards makeing a game
 - 💞️ I’m looking to collaborate on an Aplication project 
-- 📫 How to reach me [![Twitter][twi]][1] [![Facebook][face]][2]
-[![Github][git]][2]
+- 📫 How to reach me [![Twitter][twi]][1] [![Facebook][face]][2] [![Github][git]][2]
 [![Instagram][insta]][2]
 [![LinkedIn][link]][2]
 
 
-[twi]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[face]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[git]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[twi]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[face]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+[git]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[insta]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[link]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [1]: https://twitter.com/bingo00000000
 [2]: http://www.facebook.com/sednaoui
