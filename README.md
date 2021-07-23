@@ -1,8 +1,9 @@
-Hello me Name is Ben also known as @Bingo00000000
+Hello me name is Ben also known as @Bingo00000000
+
 - 👀 I’m interested in creating aplications and working on projects 
 - 🌱 I’m currently learning Unity Engine and Working towards makeing a game
 - 💞️ I’m looking to collaborate on an Aplication project 
-- 📫 How to reach me [![Twitter][twi]][1] [![Facebook][face]][2] [![Github][git]][3][![Instagram][insta]][4][![LinkedIn][link]][5]
+- 📫 How to reach me here: [![Twitter][twi]][1][![Facebook][face]][2][![Github][git]][3][![Instagram][insta]][4][![LinkedIn][link]][5]
 
 
 [twi]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
